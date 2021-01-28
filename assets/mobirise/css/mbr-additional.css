@@ -1169,3 +1169,19 @@ a {
     padding: 1rem;
   }
 }
+.cid-snp3xRrVWJ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-snp3xRrVWJ .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-snp3xRrVWJ .row {
+  flex-direction: row-reverse;
+}
+.cid-snp3xRrVWJ img {
+  width: 100%;
+}
